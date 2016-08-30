@@ -5,7 +5,7 @@
 class Matrix
 {
    private:
-      int rows;
+      int rows; //trivial change
       int cols;
 
       double* mat;
