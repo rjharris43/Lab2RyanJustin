@@ -2,7 +2,7 @@
 
 #include <time.h>
 #include <stdlib.h>
-
+//Ryan Harris
 Random::Random()
 {
    randomInit();
